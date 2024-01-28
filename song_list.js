@@ -3,43 +3,43 @@ let All_song = [
     {
       name: "Purple Dream",
       path: "music/1.mp3",
-      img: "image/1.jpg",
+      img: "images/1.jpg",
       Artist: "Ghostrifter Official"
     },
     {
       name: "Melody of Nature",
       path: "music/2.mp3",
-      img: "image/2.jpg",
+      img: "images/2.jpg",
       Artist: "Zakhar Valaha"
     },
     {
       name: "Soft_Day",
       path: "music/3.mp3",
-      img: "image/3.jpg",
+      img: "images/3.jpg",
       Artist: "PeriTune"
     },
     {
       name: "One Love - Emotional Piano + Strings",
       path: "music/4.mp3",
-      img: "image/4.jpg",
+      img: "images/4.jpg",
       Artist: "Keys of Moon"
     },
     {
       name: "Rain On My Soul",
       path: "music/5.mp3",
-      img: "image/5.jpg",
+      img: "images/5.jpg",
       Artist: "Spheria"
     },
     {
      name: "Sweet",
      path: "music/6.mp3",
-     img: "image/1.jpg",
+     img: "images/background.jpg",
      Artist: "LIQWYD"
     },
     {
       name: "Winter Spa",
       path: "music/7.mp3",
-      img: "image/2.jpg",
+      img: "images/background2.jpg",
       Artist: "Alex-Productions"
      }
  ];
